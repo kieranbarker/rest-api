@@ -1,2 +1,4 @@
+const comments = require("./comments.js");
 const posts = require("./posts.js");
-module.exports = { posts };
+
+module.exports = { comments, posts };
