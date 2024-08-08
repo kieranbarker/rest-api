@@ -1,12 +1,12 @@
 {
   "name": "rest-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "jest",
     "seed": "node seed.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
